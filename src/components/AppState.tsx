@@ -1,4 +1,3 @@
-import { type } from "os";
 import { combineReducers, createStore } from "redux";
 import { devToolsEnhancer } from "redux-devtools-extension";
 import HotelReducer from "./HotelReducer";
