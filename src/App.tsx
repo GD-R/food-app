@@ -5,7 +5,6 @@ import { ConfigureStore } from './components/AppState';
 import Home from './components/Home';
 import Login from './components/Login';
 import Sign from './components/Sign';
-import UI from './components/UI';
 import './components/FireBaseSetup'
 import UserContext from './components/UserContext';
 import Profile from './components/Profile';
