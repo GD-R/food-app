@@ -1,6 +1,5 @@
 import React, { useContext } from 'react'
 import { AppBar, Button, Toolbar } from '@mui/material'
-import IconButton from '@mui/material/IconButton';
 import SearchIcon from '@mui/icons-material/Search';
 import InputBase from '@mui/material/InputBase';
 import { useNavigate } from "react-router-dom";
